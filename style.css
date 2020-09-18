@@ -1,0 +1,20 @@
+/*Exercice 1 à 5 bis*/
+[class*=col] {
+  color: black;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 4px;
+  background: #cda5f3;
+}
+
+/*Exercice 5 ter*/
+.test div {
+    background:none;
+    border:none;
+}
+
+div p {
+    background: #a8d2e3;
+    border: 1px solid #979797;
+    padding: 1em 0 1em 0;
+}
